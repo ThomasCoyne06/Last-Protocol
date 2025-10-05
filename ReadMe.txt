@@ -1,5 +1,5 @@
 Date : 19/03/2023
-Made by: Leonnel Hammel & Thomas COYNE
+
 Description : Destroy the brick wall and evade the enemies!
 Keybinds :
        	    "Z" : Move the player upward
