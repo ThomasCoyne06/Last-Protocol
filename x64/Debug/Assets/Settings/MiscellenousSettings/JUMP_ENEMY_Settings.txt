@@ -1,0 +1,10 @@
+.-. . . .-. .  . .-. .-. .-. .-. . .
+|-| |\|  |  |\/| |-|  |   |  | | |\|
+` ' ' ` `-' '  ` ` '  '  `-' `-' ' `
+
+name = MISC_JUMP_ENEMY
+first frame rect = 0/881/53/32
+number of frame = 5
+framerate = 8
+looping = false
+origin offset = 0/-10

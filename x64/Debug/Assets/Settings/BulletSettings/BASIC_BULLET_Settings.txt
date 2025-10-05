@@ -1,0 +1,12 @@
+.-. . . .-. .  . .-. .-. .-. .-. . .
+|-| |\|  |  |\/| |-|  |   |  | | |\|
+` ' ' ` `-' '  ` ` '  '  `-' `-' ' `
+
+name = BASIC_BULLET
+first frame rect = 0/0/48/5
+number of frame = 7
+framerate = 8
+looping = false
+origin offset = 0/0
+
+

@@ -1,0 +1,10 @@
+.-. . . .-. .  . .-. .-. .-. .-. . .
+|-| |\|  |  |\/| |-|  |   |  | | |\|
+` ' ' ` `-' '  ` ` '  '  `-' `-' ' `
+
+name = MISC_JUMP
+first frame rect = 0/1104/57/3
+number of frame = 6
+framerate = 20
+looping = false
+origin offset = 0/0

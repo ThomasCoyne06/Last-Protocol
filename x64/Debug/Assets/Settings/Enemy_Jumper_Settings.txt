@@ -1,0 +1,75 @@
+.-. .-. .-. .-. .-.
+`-.  |  |-|  |  `-.
+`-'  '  ` '  '  `-'
+
+life = 3
+my crash damage = 0
+her crash damage = 1
+shoot damage = 0
+shoot cooldown = 0
+invulnerability cooldown = 0.5
+explosion damage = 0
+explosion timer = 0
+speed = 400
+speed takeoff = 0
+altitude timer = 0
+detect range = 1500
+agressive range = 2500
+fall vulnerability = 0
+hitbox size = 18/55
+start state = IDLE
+start turn = left
+
+.-. .-. . . .-. . . .-. .-. .-.
+|(  |-  |-| |-| | |  |  | | |(
+`-' `-' ' ` ` ' `.' `-' `-' ' '
+
+detect player = true
+undetect player = true
+follow player horizontal = true
+follow player vertical = false
+gravity affect = true
+roam = false
+come down = true
+shoot = false
+jump = true
+fly = false
+fall damage = false
+explode = false
+landing = false
+
+.-. . . .-. .  . .-. .-. .-. .-. . .
+|-| |\|  |  |\/| |-|  |   |  | | |\|
+` ' ' ` `-' '  ` ` '  '  `-' `-' ' `
+
+number of animation = 4
+
+name = IDLE
+first frame rect = 0/2406/24/62
+number of frame = 3
+framerate = 10
+looping = true
+origin offset = 0/0.3
+
+name = MOVE
+first frame rect = 0/2066/24/62
+number of frame = 3
+framerate = 10
+looping = true
+origin offset = 0/0.3
+
+name = JUMP
+first frame rect = 0/2172/24/62
+number of frame = 3
+framerate = 8
+looping = false
+origin offset = 0/0.3
+
+name = DEAD
+first frame rect = 0/2406/24/62
+number of frame = 3
+framerate = 12
+looping = false
+origin offset = 0/0.3
+
+

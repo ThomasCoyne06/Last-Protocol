@@ -1,0 +1,12 @@
+.-. . . .-. .  . .-. .-. .-. .-. . .
+|-| |\|  |  |\/| |-|  |   |  | | |\|
+` ' ' ` `-' '  ` ` '  '  `-' `-' ' `
+
+name = GRASS_1
+first frame rect = 0/76/20/13
+number of frame = 4
+framerate = 8
+looping = false
+origin offset = 0/-1
+isAnimInteractible = true
+isUpFront = true

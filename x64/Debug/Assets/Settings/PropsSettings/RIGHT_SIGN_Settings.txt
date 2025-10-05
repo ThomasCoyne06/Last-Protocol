@@ -1,0 +1,12 @@
+.-. . . .-. .  . .-. .-. .-. .-. . .
+|-| |\|  |  |\/| |-|  |   |  | | |\|
+` ' ' ` `-' '  ` ` '  '  `-' `-' ' `
+
+name = RIGHT_SIGN
+first frame rect = 120/187/40/50
+number of frame = 1
+framerate = 0
+looping = true
+origin offset = 0/-1
+isAnimInteractible = false
+isUpFront = false

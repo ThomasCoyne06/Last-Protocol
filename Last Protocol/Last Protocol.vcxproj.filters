@@ -1,0 +1,489 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Fichiers sources">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Fichiers de ressources">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Game">
+      <UniqueIdentifier>{f5fbafd6-bfb9-4df4-ad54-27327bd93da0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Menu">
+      <UniqueIdentifier>{60d8fd6b-1eef-401e-b390-7c3b53e81bfe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Game Over">
+      <UniqueIdentifier>{d1207838-2b0a-44a0-ab78-c4cfec4f1e04}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Game">
+      <UniqueIdentifier>{6a740d3d-5385-4be5-9906-63e6dca89ea7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Menu">
+      <UniqueIdentifier>{fc8ab776-0bb7-4ae5-a4f9-f4c034d20d8e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Game Over">
+      <UniqueIdentifier>{01398218-5aba-4bbf-a0c5-bf78b5cfbad0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Utility">
+      <UniqueIdentifier>{53824b37-809c-444f-9c7d-8cd45f96c067}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Utility">
+      <UniqueIdentifier>{c8943ccb-ad6f-40ea-a5c5-f4623607fc13}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Win">
+      <UniqueIdentifier>{0bc43715-5650-4b02-bead-e8cdd84c20d5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Win">
+      <UniqueIdentifier>{c09f4029-cb7f-4ce1-a103-80c80b5e7a6d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Resources">
+      <UniqueIdentifier>{d0781d37-5b1e-428d-87fe-ed202d50c1aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Resources">
+      <UniqueIdentifier>{30a4b574-0f1c-46f8-88e0-1e3e912f820b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Launching">
+      <UniqueIdentifier>{84f3dfd0-110d-4904-acdd-66800c21e5ba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Launching">
+      <UniqueIdentifier>{175d4828-efef-4e3e-a084-515221536151}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Config files">
+      <UniqueIdentifier>{f5349833-a6d1-4a80-8a96-63138a61e9f9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Config files\Map">
+      <UniqueIdentifier>{b2265c27-edc3-4d56-bb0d-612a05169bfc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Config files\Map\Level 1">
+      <UniqueIdentifier>{f8c81d19-2ab1-4ccf-9ff3-67a71c81bf4c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Config files\Map\Level 2">
+      <UniqueIdentifier>{873054ce-e0ab-42c5-ba13-f64d9f049264}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Config files\Enemy">
+      <UniqueIdentifier>{f7b87790-3b24-45c9-94f7-bba611125c20}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Config files\Background">
+      <UniqueIdentifier>{01057f18-1db8-4152-8561-3b84ea105828}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Config files\Miscellenous">
+      <UniqueIdentifier>{abf7a9e8-80fd-4865-95ae-9bb21e711652}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Config files\Props">
+      <UniqueIdentifier>{24dd602d-51d0-43d0-937b-5892037fbb42}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Config files\Bullets">
+      <UniqueIdentifier>{3e549033-f5b1-482b-a489-d0c4766f3573}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Cutscene">
+      <UniqueIdentifier>{ad516c63-0b14-44d2-b3f7-3824531ee870}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Cutscene">
+      <UniqueIdentifier>{c83338d0-b5d1-4be5-a447-bf91fe7cb042}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Game\Boss">
+      <UniqueIdentifier>{635390b8-4cf5-458c-bc6b-2dc9fb654e92}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Game\Boss">
+      <UniqueIdentifier>{e026fb10-78fe-4833-80bb-57044e192d4c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Game\HUD player">
+      <UniqueIdentifier>{5ee3462a-e453-4c6a-b3ac-c95a3f0c8ecc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Game\HUD player">
+      <UniqueIdentifier>{a8aded8b-4714-4fe8-8b41-c8d181761fb2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.c">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="GameState\GameState.c">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="GameState\Win.c">
+      <Filter>Fichiers sources\Win</Filter>
+    </ClCompile>
+    <ClCompile Include="Utility\Animation.c">
+      <Filter>Fichiers sources\Utility</Filter>
+    </ClCompile>
+    <ClCompile Include="Utility\Collision.c">
+      <Filter>Fichiers sources\Utility</Filter>
+    </ClCompile>
+    <ClCompile Include="Utility\Creation.c">
+      <Filter>Fichiers sources\Utility</Filter>
+    </ClCompile>
+    <ClCompile Include="Utility\Mathematique.c">
+      <Filter>Fichiers sources\Utility</Filter>
+    </ClCompile>
+    <ClCompile Include="Utility\Transition.c">
+      <Filter>Fichiers sources\Utility</Filter>
+    </ClCompile>
+    <ClCompile Include="Utility\LinkedList.c">
+      <Filter>Fichiers sources\Utility</Filter>
+    </ClCompile>
+    <ClCompile Include="GameState\Menu.c">
+      <Filter>Fichiers sources\Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="GameState\GameOver.c">
+      <Filter>Fichiers sources\Game Over</Filter>
+    </ClCompile>
+    <ClCompile Include="Game\Bullet.c">
+      <Filter>Fichiers sources\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Game\Game.c">
+      <Filter>Fichiers sources\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Game\Level.c">
+      <Filter>Fichiers sources\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Game\Player.c">
+      <Filter>Fichiers sources\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Utility\Camera.c">
+      <Filter>Fichiers sources\Utility</Filter>
+    </ClCompile>
+    <ClCompile Include="Resources\Music.c">
+      <Filter>Fichiers sources\Resources</Filter>
+    </ClCompile>
+    <ClCompile Include="Resources\Sounds.c">
+      <Filter>Fichiers sources\Resources</Filter>
+    </ClCompile>
+    <ClCompile Include="Game\Background.c">
+      <Filter>Fichiers sources\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Game\Pickup.c">
+      <Filter>Fichiers sources\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Game\Weapon.c">
+      <Filter>Fichiers sources\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Utility\Mapping.c">
+      <Filter>Fichiers sources\Utility</Filter>
+    </ClCompile>
+    <ClCompile Include="MainMenuWindow.c">
+      <Filter>Fichiers sources\Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="MainMenu.c">
+      <Filter>Fichiers sources\Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="Game\Miscellenous.c">
+      <Filter>Fichiers sources\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Game\Laser.c">
+      <Filter>Fichiers sources\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Game\Sign.c">
+      <Filter>Fichiers sources\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Game\Door.c">
+      <Filter>Fichiers sources\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="PauseMenu.c">
+      <Filter>Fichiers sources\Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="Game\BulletTime.c">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Launching\Logo.c">
+      <Filter>Fichiers sources\Launching</Filter>
+    </ClCompile>
+    <ClCompile Include="Launching\Launch.c">
+      <Filter>Fichiers sources\Launching</Filter>
+    </ClCompile>
+    <ClCompile Include="Game\Bumper.c">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Game\Enemy.c">
+      <Filter>Fichiers sources\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Utility\FileReader.c">
+      <Filter>Fichiers sources\Utility</Filter>
+    </ClCompile>
+    <ClCompile Include="Game\Props.c">
+      <Filter>Fichiers sources\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Cutscene\Cutscene.c">
+      <Filter>Fichiers sources\Cutscene</Filter>
+    </ClCompile>
+    <ClCompile Include="Game\Boss.c">
+      <Filter>Fichiers sources\Game\Boss</Filter>
+    </ClCompile>
+    <ClCompile Include="BossHUD.c">
+      <Filter>Fichiers sources\Game\Boss</Filter>
+    </ClCompile>
+    <ClCompile Include="Game\HUD.c">
+      <Filter>Fichiers sources\Game\HUD player</Filter>
+    </ClCompile>
+    <ClCompile Include="Stats.c">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GameState\GameState.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Utility\Common.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="GameState\Win.h">
+      <Filter>Fichiers d%27en-tête\Win</Filter>
+    </ClInclude>
+    <ClInclude Include="Utility\Animation.h">
+      <Filter>Fichiers d%27en-tête\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="Utility\Collision.h">
+      <Filter>Fichiers d%27en-tête\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="Utility\Creation.h">
+      <Filter>Fichiers d%27en-tête\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="Utility\LinkedList.h">
+      <Filter>Fichiers d%27en-tête\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="Utility\Mathematique.h">
+      <Filter>Fichiers d%27en-tête\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="Utility\Transition.h">
+      <Filter>Fichiers d%27en-tête\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="GameState\Menu.h">
+      <Filter>Fichiers d%27en-tête\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="GameState\GameOver.h">
+      <Filter>Fichiers d%27en-tête\Game Over</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\Bullet.h">
+      <Filter>Fichiers d%27en-tête\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\Game.h">
+      <Filter>Fichiers d%27en-tête\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\Level.h">
+      <Filter>Fichiers d%27en-tête\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\Player.h">
+      <Filter>Fichiers d%27en-tête\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Utility\Camera.h">
+      <Filter>Fichiers d%27en-tête\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="Resources\Music.h">
+      <Filter>Fichiers d%27en-tête\Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="Resources\Sounds.h">
+      <Filter>Fichiers d%27en-tête\Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\Background.h">
+      <Filter>Fichiers d%27en-tête\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\Pickup.h">
+      <Filter>Fichiers d%27en-tête\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\Weapon.h">
+      <Filter>Fichiers d%27en-tête\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Utility\Mapping.h">
+      <Filter>Fichiers d%27en-tête\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="MainMenu.h">
+      <Filter>Fichiers d%27en-tête\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="MainMenuWindow.h">
+      <Filter>Fichiers d%27en-tête\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\Miscellenous.h">
+      <Filter>Fichiers d%27en-tête\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\Laser.h">
+      <Filter>Fichiers d%27en-tête\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\Sign.h">
+      <Filter>Fichiers d%27en-tête\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\Door.h">
+      <Filter>Fichiers d%27en-tête\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\BulletTime.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Launching\Logo.h">
+      <Filter>Fichiers d%27en-tête\Launching</Filter>
+    </ClInclude>
+    <ClInclude Include="Launching\Launch.h">
+      <Filter>Fichiers d%27en-tête\Launching</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\Bumper.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="PauseMenu.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\Enemy.h">
+      <Filter>Fichiers d%27en-tête\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Utility\FileReader.h">
+      <Filter>Fichiers d%27en-tête\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\Props.h">
+      <Filter>Fichiers d%27en-tête\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Cutscene\Cutscene.h">
+      <Filter>Fichiers d%27en-tête\Cutscene</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\Boss.h">
+      <Filter>Fichiers d%27en-tête\Game\Boss</Filter>
+    </ClInclude>
+    <ClInclude Include="BossHUD.h">
+      <Filter>Fichiers d%27en-tête\Game\Boss</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\HUD.h">
+      <Filter>Fichiers d%27en-tête\Game\HUD player</Filter>
+    </ClInclude>
+    <ClInclude Include="Stats.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Score.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Last Protocol.rc">
+      <Filter>Fichiers de ressources</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\x64\Debug\Assets\Levels\Level 1\Level_1_Bottom.csv">
+      <Filter>Config files\Map\Level 1</Filter>
+    </None>
+    <None Include="..\x64\Debug\Assets\Levels\Level 1\Level_1_Collid.csv">
+      <Filter>Config files\Map\Level 1</Filter>
+    </None>
+    <None Include="..\x64\Debug\Assets\Levels\Level 1\Level_1_Entity.csv">
+      <Filter>Config files\Map\Level 1</Filter>
+    </None>
+    <None Include="..\x64\Debug\Assets\Levels\Level 1\Level_1_Shadow.csv">
+      <Filter>Config files\Map\Level 1</Filter>
+    </None>
+    <None Include="..\x64\Debug\Assets\Levels\Level 2\Level_2_Bottom.csv">
+      <Filter>Config files\Map\Level 2</Filter>
+    </None>
+    <None Include="..\x64\Debug\Assets\Levels\Level 2\Level_2_Collid.csv">
+      <Filter>Config files\Map\Level 2</Filter>
+    </None>
+    <None Include="..\x64\Debug\Assets\Levels\Level 2\Level_2_Entity.csv">
+      <Filter>Config files\Map\Level 2</Filter>
+    </None>
+    <None Include="..\x64\Debug\Assets\Levels\Level 2\Level_2_Shadow.csv">
+      <Filter>Config files\Map\Level 2</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\x64\Debug\Assets\Settings\Enemy_Basic_Settings.txt">
+      <Filter>Config files\Enemy</Filter>
+    </Text>
+    <Text Include="..\x64\Debug\Assets\Settings\Enemy_TV_Settings.txt">
+      <Filter>Config files\Enemy</Filter>
+    </Text>
+    <Text Include="..\x64\Debug\Assets\Settings\Enemy_Eye_Settings.txt">
+      <Filter>Config files\Enemy</Filter>
+    </Text>
+    <Text Include="..\x64\Debug\Assets\Settings\Background_Settings.txt">
+      <Filter>Config files\Background</Filter>
+    </Text>
+    <Text Include="..\x64\Debug\Assets\Settings\PropsSettings\DEAD_ROBOT_Settings.txt">
+      <Filter>Config files\Props</Filter>
+    </Text>
+    <Text Include="..\x64\Debug\Assets\Settings\PropsSettings\GRASS_1_Settings.txt">
+      <Filter>Config files\Props</Filter>
+    </Text>
+    <Text Include="..\x64\Debug\Assets\Settings\PropsSettings\GRASS_2_Settings.txt">
+      <Filter>Config files\Props</Filter>
+    </Text>
+    <Text Include="..\x64\Debug\Assets\Settings\PropsSettings\STREET_LIGHT_Settings.txt">
+      <Filter>Config files\Props</Filter>
+    </Text>
+    <Text Include="..\x64\Debug\Assets\Settings\MiscellenousSettings\BASIC_Settings.txt">
+      <Filter>Config files\Miscellenous</Filter>
+    </Text>
+    <Text Include="..\x64\Debug\Assets\Settings\MiscellenousSettings\EXPLOSION_Settings.txt">
+      <Filter>Config files\Miscellenous</Filter>
+    </Text>
+    <Text Include="..\x64\Debug\Assets\Settings\MiscellenousSettings\MEDIUM_Settings.txt">
+      <Filter>Config files\Miscellenous</Filter>
+    </Text>
+    <Text Include="..\x64\Debug\Assets\Settings\MiscellenousSettings\SMOKE_Settings.txt">
+      <Filter>Config files\Miscellenous</Filter>
+    </Text>
+    <Text Include="..\x64\Debug\Assets\Settings\MiscellenousSettings\ULTIMATE_Settings.txt">
+      <Filter>Config files\Miscellenous</Filter>
+    </Text>
+    <Text Include="..\x64\Debug\Assets\Settings\PropsSettings\LIGHT_CEILING_Settings.txt">
+      <Filter>Config files\Props</Filter>
+    </Text>
+    <Text Include="..\x64\Debug\Assets\Settings\PropsSettings\JUMP_SIGN_Settings.txt">
+      <Filter>Config files\Props</Filter>
+    </Text>
+    <Text Include="..\x64\Debug\Assets\Settings\PropsSettings\RUN_LEFT_SIGN_Settings.txt">
+      <Filter>Config files\Props</Filter>
+    </Text>
+    <Text Include="..\x64\Debug\Assets\Settings\PropsSettings\RUN_RIGHT_SIGN_Settings.txt">
+      <Filter>Config files\Props</Filter>
+    </Text>
+    <Text Include="..\x64\Debug\Assets\Settings\PropsSettings\SLIDE_SIGN_Settings.txt">
+      <Filter>Config files\Props</Filter>
+    </Text>
+    <Text Include="..\x64\Debug\Assets\Settings\PropsSettings\LEFT_SIGN_Settings.txt">
+      <Filter>Config files\Props</Filter>
+    </Text>
+    <Text Include="..\x64\Debug\Assets\Settings\PropsSettings\RIGHT_SIGN_Settings.txt">
+      <Filter>Config files\Props</Filter>
+    </Text>
+    <Text Include="..\x64\Debug\Assets\Settings\PropsSettings\DOWN_SIGN_Settings.txt">
+      <Filter>Config files\Props</Filter>
+    </Text>
+    <Text Include="..\x64\Debug\Assets\Settings\PropsSettings\UP_SIGN_Settings.txt">
+      <Filter>Config files\Props</Filter>
+    </Text>
+    <Text Include="..\x64\Debug\Assets\Settings\Enemy_Jumper_Settings.txt">
+      <Filter>Config files\Enemy</Filter>
+    </Text>
+    <Text Include="..\x64\Debug\Assets\Settings\Enemy_Mini_Settings.txt">
+      <Filter>Config files\Enemy</Filter>
+    </Text>
+    <Text Include="..\x64\Debug\Assets\Settings\PropsSettings\VINE_3_Settings.txt">
+      <Filter>Config files\Props</Filter>
+    </Text>
+    <Text Include="..\x64\Debug\Assets\Settings\PropsSettings\VINE_1_Settings.txt">
+      <Filter>Config files\Props</Filter>
+    </Text>
+    <Text Include="..\x64\Debug\Assets\Settings\PropsSettings\VINE_2_Settings.txt">
+      <Filter>Config files\Props</Filter>
+    </Text>
+    <Text Include="..\x64\Debug\Assets\Settings\BulletSettings\BOSS_BULLET_Settings.txt">
+      <Filter>Config files\Bullets</Filter>
+    </Text>
+    <Text Include="..\x64\Debug\Assets\Settings\BulletSettings\BASIC_BULLET_Settings.txt">
+      <Filter>Config files\Bullets</Filter>
+    </Text>
+    <Text Include="..\x64\Debug\Assets\Settings\MiscellenousSettings\COLLISION_ENEMY_Settings.txt">
+      <Filter>Config files\Miscellenous</Filter>
+    </Text>
+    <Text Include="..\x64\Debug\Assets\Settings\MiscellenousSettings\EXPLOSION_BOSS_Settings.txt">
+      <Filter>Config files\Miscellenous</Filter>
+    </Text>
+    <Text Include="..\x64\Debug\Assets\Settings\MiscellenousSettings\JUMP_ENEMY_Settings.txt">
+      <Filter>Config files\Miscellenous</Filter>
+    </Text>
+    <Text Include="..\x64\Debug\Assets\Settings\MiscellenousSettings\JUMP_Settings.txt">
+      <Filter>Config files\Miscellenous</Filter>
+    </Text>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,12 @@
+.-. . . .-. .  . .-. .-. .-. .-. . .
+|-| |\|  |  |\/| |-|  |   |  | | |\|
+` ' ' ` `-' '  ` ` '  '  `-' `-' ' `
+
+name = STREET_LIGHT
+first frame rect = 0/256/55/101
+number of frame = 2
+framerate = 3
+looping = true
+origin offset = 0/-1
+isAnimInteractible = false
+isUpFront = false

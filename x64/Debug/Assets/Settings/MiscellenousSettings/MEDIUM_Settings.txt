@@ -1,0 +1,10 @@
+.-. . . .-. .  . .-. .-. .-. .-. . .
+|-| |\|  |  |\/| |-|  |   |  | | |\|
+` ' ' ` `-' '  ` ` '  '  `-' `-' ' `
+
+name = MISC_ATTACK_MEDIUM
+first frame rect = 0/259/57/40
+number of frame = 3
+framerate = 15
+looping = false
+origin offset = 0/0

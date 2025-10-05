@@ -1,0 +1,10 @@
+.-. . . .-. .  . .-. .-. .-. .-. . .
+|-| |\|  |  |\/| |-|  |   |  | | |\|
+` ' ' ` `-' '  ` ` '  '  `-' `-' ' `
+
+name = MISC_EXPLOSION_BOSS
+first frame rect = 0/642/32/29
+number of frame = 5
+framerate = 8
+looping = false
+origin offset = 0/0

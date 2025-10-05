@@ -1,0 +1,12 @@
+.-. . . .-. .  . .-. .-. .-. .-. . .
+|-| |\|  |  |\/| |-|  |   |  | | |\|
+` ' ' ` `-' '  ` ` '  '  `-' `-' ' `
+
+name = VINE_2
+first frame rect = 0/382/24/20
+number of frame = 4
+framerate = 6
+looping = false
+origin offset = 0/0
+isAnimInteractible = true
+isUpFront = true

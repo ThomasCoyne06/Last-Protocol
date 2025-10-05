@@ -1,0 +1,10 @@
+.-. . . .-. .  . .-. .-. .-. .-. . .
+|-| |\|  |  |\/| |-|  |   |  | | |\|
+` ' ' ` `-' '  ` ` '  '  `-' `-' ' `
+
+name = MISC_SMOKE
+first frame rect = 0/522/126/25
+number of frame = 6
+framerate = 8
+looping = false
+origin offset = 0/0

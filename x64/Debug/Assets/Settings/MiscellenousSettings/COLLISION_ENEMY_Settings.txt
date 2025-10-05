@@ -1,0 +1,10 @@
+.-. . . .-. .  . .-. .-. .-. .-. . .
+|-| |\|  |  |\/| |-|  |   |  | | |\|
+` ' ' ` `-' '  ` ` '  '  `-' `-' ' `
+
+name = MISC_COLLISION_ENEMY
+first frame rect = 0/994/25/24
+number of frame = 4
+framerate = 6
+looping = false
+origin offset = 0/0

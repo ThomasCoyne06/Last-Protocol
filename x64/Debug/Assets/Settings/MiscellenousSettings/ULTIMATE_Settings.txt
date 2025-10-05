@@ -1,0 +1,11 @@
+.-. . . .-. .  . .-. .-. .-. .-. . .
+|-| |\|  |  |\/| |-|  |   |  | | |\|
+` ' ' ` `-' '  ` ` '  '  `-' `-' ' `
+
+
+name = MISC_ATTACK_ULTIMATE
+first frame rect = 0/333/425/70
+number of frame = 3
+framerate = 8
+looping = false
+origin offset = -100/-20

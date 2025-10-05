@@ -1,0 +1,12 @@
+.-. . . .-. .  . .-. .-. .-. .-. . .
+|-| |\|  |  |\/| |-|  |   |  | | |\|
+` ' ' ` `-' '  ` ` '  '  `-' `-' ' `
+
+name = SLIDE_SIGN
+first frame rect = 0/101/41/86
+number of frame = 1
+framerate = 0
+looping = true
+origin offset = 0/-1
+isAnimInteractible = false
+isUpFront = false

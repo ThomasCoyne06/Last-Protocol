@@ -1,0 +1,10 @@
+.-. . . .-. .  . .-. .-. .-. .-. . .
+|-| |\|  |  |\/| |-|  |   |  | | |\|
+` ' ' ` `-' '  ` ` '  '  `-' `-' ' `
+
+name = MISC_EXPLOSION
+first frame rect = 0/46/55/56
+number of frame = 3
+framerate = 8
+looping = false
+origin offset = 0/0

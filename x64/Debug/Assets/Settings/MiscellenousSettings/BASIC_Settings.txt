@@ -1,0 +1,17 @@
+.-. . . .-. .  . .-. .-. .-. .-. . .
+|-| |\|  |  |\/| |-|  |   |  | | |\|
+` ' ' ` `-' '  ` ` '  '  `-' `-' ' `
+
+name = MISC_ATTACK_BASIC
+first frame rect = 0/160/17/44
+number of frame = 3
+framerate = 12
+looping = false
+origin offset = 0/0
+
+
+
+
+
+
+

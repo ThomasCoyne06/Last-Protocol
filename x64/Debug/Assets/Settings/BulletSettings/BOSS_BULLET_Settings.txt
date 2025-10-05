@@ -1,0 +1,10 @@
+.-. . . .-. .  . .-. .-. .-. .-. . .
+|-| |\|  |  |\/| |-|  |   |  | | |\|
+` ' ' ` `-' '  ` ` '  '  `-' `-' ' `
+
+name = BOSS_BULLET
+first frame rect =  0/32/32/32
+number of frame = 4
+framerate = 8
+looping = true
+origin offset = 0/0
